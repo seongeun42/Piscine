@@ -1,0 +1,5 @@
+Credentials cache: API:B6F42F53-F947-4DC9-806E-A9B29BFEDC63
+        Principal: seongele@42SEOUL.KR
+
+  Issued                Expires             Flags    Principal
+Mar 23 14:58:16 2021  Mar 24 00:58:02 2021  FPIA   krbtgt/42SEOUL.KR@42SEOUL.KR
